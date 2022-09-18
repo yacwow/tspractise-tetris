@@ -1,9 +1,9 @@
+import $ from 'jquery'
 import { GamePageView } from './core/viewer/GamePageView';
 // import { MoveDirection } from './core/types';
 // import { TerisRule } from './core/TerisRule';
 // import { Square } from "./core/Square";
 import { SquarePageViewer } from "./core/viewer/SquarePageView";
-import $ from 'jquery'
 import { SquareGroup } from "./core/SquareGroup";
 // import { createTeris } from "./core/Teris";
 import { Game } from './core/Game';
