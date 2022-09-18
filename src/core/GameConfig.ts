@@ -1,0 +1,20 @@
+export default {
+    gameSize:{
+        width:16,
+        height:20,
+    },
+    infoSize:{
+        width:6,
+        height:6
+    },
+    levels:[
+        {score:0,duration:1500},
+        {score:20,duration:1000},
+        {score:300,duration:900},
+        {score:600,duration:800},
+        {score:1000,duration:700},
+        {score:1500,duration:600},
+        {score:2000,duration:500},
+        {score:3000,duration:300},
+    ]
+}
